@@ -1,0 +1,493 @@
+body{
+	background-color:silver;
+}
+/*HOME*/
+#color{
+	padding:0.1px 0px 30px 10px;
+	background-color:white;
+	
+}
+#navigation{
+margin:0px 0px 10px 900px;	
+}
+#photo{
+	height:60px;
+	width:6%;
+	border-radius:100px;
+	color:deepskyblue;
+	margin:25px 30px 0px 10px;
+}
+#hname{
+	font-size:25px;
+	height:0px;
+	margin:0px 10px 0px 10px;
+	color:deepskyblue;
+}
+.size{
+	font-size:30px;
+}
+#nav{
+	font-size:18px;
+	margin:5px 10px 0px 10px;
+	float:left;
+	color:black;
+	
+	
+	
+}
+section{
+	
+	padding:0px 60px 30px 60px;
+}
+#section{
+	background-color:deepskyblue;
+	padding:0px 60px 160px 60px;
+	color:white;
+}
+#head{
+	font-size:60px;
+	
+}
+#mid-h{
+	font-size:20px;
+	margin:0px 0px 0px 0px;
+}
+#last-h{
+	font-size:25px;
+}
+#box{
+	float:left;
+	padding:10px 40px;
+	width:22%;
+	background-color:skyblue;
+	margin:0px 10px 60px 0px;
+	font-size:20px;
+	border-radius:10px;
+}
+#side{
+	margin:0px 0px 0px 350px;
+}
+#side1{
+	margin:0px 0px 0px 150px;
+}
+	
+#time{
+	float:left;
+	padding:5px 20px 60px 20px;
+	width:7%;
+	height:20px;
+	background-color:skyblue;
+	margin:0px 0px 0px 30px;
+	color:white;
+	border-radius:10px;
+}
+#Tn{
+	margin:0px 0px 0px 500px;
+	font-size:17px;
+	padding:0px 0px;
+}
+/*CODE FEST*/
+.prize{
+	margin:70px 200px 0px 300px;
+}
+#code-fest{
+	padding:30px 10px 0px 0px;
+	width:90%;
+	height:700px;
+	background-color:white;
+	border-radius:10px;
+
+}
+.pic{
+	margin:0px 0px 20px 45px;
+	font-size:39px;
+	color:blue;
+	
+}.pic-1{
+	margin:0px 0px 20px 65px;
+	font-size:39px;
+	color:blue;
+	
+}.pic-2{
+	margin:0px 0px 20px 25px;
+	font-size:39px;
+	color:blue;
+	
+}
+
+#name{
+	margin:0px 0px 0px 230px;
+	font-size:30px;
+}
+#sub-n{
+	margin:0px 0px 0px 75px;
+font-size:20px;	
+}
+#be-n{
+	margin:0px 0px 0px 260px;
+	font-size:20px;	
+}
+#fest-b{
+	float:left;
+	padding:0px 10px 20px 10px;
+	width:30%;
+	margin:50px 60px 20px 60px;
+	border:1px solid gray;
+	border-radius:10px;
+}
+#code-f{
+	margin:50px 0px 0px 30px;
+	font-size:18px;
+	padding:10px 0px;
+	
+}
+#code-m{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px;
+	
+}
+#code-l{
+	margin:0px 0px 0px 0px;
+	padding:0px 0px;
+	
+}
+#code-2{
+	margin:50px 0px 0px 20px;
+	font-size:18px;
+	padding:10px 0px;
+	
+}
+#code-3{
+	margin:0px 0px 0px 10px;
+	padding:0px 0px;
+	
+}
+#code-4{
+	margin:0px 0px 0px 10px;
+	padding:0px 0px;
+	
+}#code-5{
+	margin:50px 0px 0px 40px;
+	font-size:18px;
+	padding:10px 0px;
+	
+}
+#code-6{
+	margin:0px 0px 0px 10px;
+	padding:0px 0px;
+	
+}
+#code-7{
+	margin:0px 0px 0px 30px;
+	padding:0px 0px;
+	
+}#code-8{
+	margin:50px 0px 0px 60px;
+	font-size:18px;
+	padding:10px 0px;
+	
+}
+#code-9{
+	margin:0px 0px 0px 10px;
+	padding:0px 0px;
+	
+}
+#code-0{
+	margin:0px 0px 0px 20px;
+	padding:0px 0px;
+	
+}
+/*Register*/
+.cost{
+	margin:0px 200px 0px 200px;
+}
+#register{
+	padding:50px 0px 390px 0px;
+	margin:90px 0px 90px 0px;
+	background-color:white;
+	border-radius:20px
+}
+#Rcode{
+	margin:60px 0px 10px 290px;
+	font-size:30px;
+}
+#rmid-n{
+	margin:0px 0px 0px 190px;
+	
+}
+#pinf{
+	margin:120px 0px 0px 50px;
+	width:60%;
+	font-size:28px;
+}
+#hinf{
+	
+	float:left;
+	padding:10px 0px 0px 0px;
+	background-color:white;
+	margin:0px 0px 0px 30px;
+	width:20%;
+}
+#hin{
+	
+	float:left;
+	padding:7px 0px 7px 30px;
+	background-color:deepskyblue;
+	margin:0px 40px 0px 30px;
+	width:20%;
+	border-radius:30px;
+}
+#headinf{
+	margin:50px 0px 0px 150px;
+	
+}
+#stu-i{
+	margin:30px 0px 80px 10px;
+	
+}
+#infoS{
+	float:left;
+	padding:0px 0px 0px 10px;
+	background-color:;
+	margin:0px 0px 50px 30px;
+	width:30%;
+	
+}
+#nfoS{
+	float:left;
+	padding:0px 0px 0px 10px;
+	background-color:;
+	margin:0px 0px 50px 170px;
+	width:30%;
+	
+}
+#tbox{
+	padding:10px 150px 10px 290px;
+	border-radius:5px;
+	border:1px solid lightgray;
+	background-color:transparent;
+	margin:0px 70px 90px 0px;
+	width:90%;
+
+}
+#cbox{
+	padding:10px 150px 10px 700px;
+	border:1px solid #ccc;
+	background-color:transparent;
+	margin:0px 70px 90px 0px;
+	width:90%;
+
+}
+#Sbox{
+	border:1px solid #ccc;
+	background-color:transparent;
+	padding:8px 240px 5px 8px;
+	width:70%;
+	
+}
+/*Time Line*/
+#dp{
+	
+}
+.event{
+	width:40%;
+	margin:0px 0px 0px 0px;
+}
+.tline{
+	background-color:aqua;
+	width:1.9%;
+	height:600px;
+	margin-left:600px;
+
+}
+#dot{
+	background-color:aqua;
+	padding:14px 10px;
+	border-radius:50px;
+	width:100%;
+}
+#ev{
+	width:40%;
+	margin:90px 0px 0px 500px;
+	font-size:28px;
+	
+}
+#r-ins{
+	margin:0px 100px 0px 0px;
+	padding:10px 30px;
+	background-color:white;
+	width:1900%;
+	float:right;
+	
+
+}
+#m-ins{
+	margin:0px 0px 0px 100px;
+	padding:10px 30px;
+	background-color:white;
+	width:2000%;
+	float;left:
+	
+}
+/*prize distribution*/
+#d1{
+	width:90%;
+	padding:0px 0px 300px 0px;
+}
+#prize{
+	margin:90px 0px 0px 540px;
+	font-size:30px;
+	width:40%;
+}
+
+#img{
+	font-size:40px;
+	padding:10px 10px;
+	background-color:yellow;
+	border-radius:50px;
+	color:white;
+	margin:0px 30px 0px 24px;
+
+}
+#img-1{
+	font-size:40px;
+	padding:10px 10px;
+	background-color:deepskyblue;
+	border-radius:50px;
+	color:white;
+	margin:0px 30px 0px 44px;
+
+}
+.pb{
+	margin:0px 0px 30px 120px;
+}
+.pt{
+	margin:20px 0px 100px 20px;
+	background-color:white;
+	padding:60px 0px 65px 60px;
+	width:17%;
+	float:left;
+	border-radius:20px;
+	border:1px solid aqua;
+}
+#p2{
+	margin:0px 10px 0px 20px;
+	color:aqua;
+	font-size:23px;
+
+	
+}
+#p-p{
+	margin:0px 50px 0px 10px;
+	color:aqua;
+	font-size:23px;
+}
+#p3{
+	margin:20px 0px 0px 20px;
+	color:gray;
+	
+}
+#p1{
+	margin:20px 0px 0px 19px;
+	width:70%;
+	
+}
+/*important guidelines*/
+#GI{
+	background-color:white;
+	margin:20px 10px 10px 260px;
+	border-radius:10px;
+	width:50%;
+	
+}
+#imp{
+	margin:80px 0px 0px 200px;
+	font-size:30px;
+	width:50%;
+}
+#adj{
+	padding:0px 0px;
+	background-color:white;
+	
+}
+#pi{
+	margin:0px 0px 0px 0px;
+	width:100%
+}
+#points{
+	margin:50px 0px 0px 100px;
+	padding:30px 0px;
+	font-size:24px;
+	float:left;	
+	
+	
+}
+.igi{
+	margin:0px 0px 0px 0px;
+	font-size:17px;
+	width:100%;
+	background-color:lightblue;
+	padding:5px 20px 5px 10px;
+	border-radius:10px;
+}
+
+.igui{
+	margin:0px 20px 30px 0px;
+	font-size:17px;
+	width:100%;
+	background-color:aqua;
+	padding:5px 20px 19px 10px;
+	border-radius:10px;
+	color:white;
+}
+.gi2{
+	margin:0px 0px 0px 50px;
+	font-size:17px;
+	width:100%;
+	background-color:aqua;
+}
+.add .footer{
+	margin:40px 0px 0px 80px;
+	padding-right:60px;
+	font-size:20px;
+	color:white;
+	break-inside:avoid;
+
+}
+#logo{
+	font-size:25px;
+	padding:10px 10px;
+	background-color:white;
+	margin:0px 5px;
+	border-radius:10px;
+	color:black;
+}
+.side{
+	margin-top:50px
+}
+.side1{
+	margin-top:80px
+}
+.add{
+	background-color:blue;
+	padding:40px 10px 70px 10px;
+	margin-top:100px;
+	/*Multicolumn*/
+	column-count:3;
+	column-gap:0px;
+}
+#f2{
+	background-color:navy;
+	padding:10px 500px 20px 540px;
+	color:white;
+}
+#f3{
+	
+	background-color:black;
+	color:white;
+	padding:25px 60px 25px 410px;
+	
+}
+	
+	
+
